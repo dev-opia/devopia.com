@@ -15,7 +15,7 @@ body {
 	margin-left: -400px; /* half of width */
 	margin-top: -300px;  /* half of height */
 	padding: 0px;
-	background: #ffffff url(/devopia_logo.png) no-repeat;
+	background: #ffffff url(devopia_logo.png) no-repeat;
 	}
 
 h1 span{
